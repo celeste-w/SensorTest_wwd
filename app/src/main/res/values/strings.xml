@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorTest</string>
+    <string name="s1">方向传感器</string>
+    <string name="s2">磁场传感器</string>
+    <string name="s3">温度传感器</string>
+    <string name="s4">光传感器</string>
+    <string name="s5">压力传感器</string>
+</resources>
